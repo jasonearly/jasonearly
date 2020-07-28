@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#Hello! I’m Jason Early. A User Experience Designer & Front-End Developer.
+##Currently I’m a <a href="">UX</a> and <a href="">Frontend Development</a> Mentor.
+###Previously I’ve worked with NASA, M&M/MARS, Boeing, Google and Motorola.
